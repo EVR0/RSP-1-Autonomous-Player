@@ -1,0 +1,47 @@
+Introduction
+
+- Background and project context
+- Problem statement
+- Project objectives
+- Scope and limitations
+- Report organization
+
+Literature Review
+
+- Overview of relevant actuator options
+- Overview of relevant sensor options
+- Comparison of candidate approaches
+- Selection criteria used for evaluation
+- Summary of identified research gap
+
+Methods
+
+- Final method selected from literature
+- System design overview
+- Mechanical design approach
+- Electrical and control approach
+- Experimental/test procedure
+- Justification for chosen method
+
+Results
+
+- Tested variables and parameter values
+- Calibration values and operating settings
+- Performance measurements
+- Tables/figures of recorded results
+- Key numerical outcomes
+
+Discussion
+
+- Interpretation of main results
+- Comparison with expected behavior
+- Trade-offs observed in design choices
+- Sources of error and uncertainty
+- Design limitations and implications
+
+Conclusion
+
+- Summary of what was achieved
+- Main technical findings
+- What was learned from the project
+- Recommended improvements/future work
